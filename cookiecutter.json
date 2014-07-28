@@ -1,7 +1,8 @@
 {
 	"full_name": "Austin Godber",
-	"email": "godber@uberhip.com",
+	"email": "godber@asu.edu",
 	"github_username": "godber",
+  "gitlab_url": "https://yourgitlab.com",
 	"project_name": "A Lot of Effort",
 	"repo_name": "alotofeffort",
 	"project_short_description": "Deploy static HTML sites to S3 with the simple 'alotofeffort' command.",
